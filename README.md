@@ -12,7 +12,7 @@ Licenciatura em Engenharia Informática e Computação (LEIC), Faculdade de Enge
 | Compiladores | *Design and Implementation of the Java-- Language Compiler* | [compiler](https://github.com/manelneto/compiler) |
 | Computação Gráfica | *My Scene* | [scene](https://github.com/manelneto/scene) |
 | Computação Paralela e Distribuída | *Performance Evaluation of a Single Core and a Multi-Core Implementation* | [parallel](https://github.com/manelneto/parallel) |
-| Computação Paralela e Distribuída | *Distributed Systems Assignment* | [distributed](https://github.com/manelneto/distributed) |
+| Computação Paralela e Distribuída | Projeto de Computação Distribuída | [distributed](https://github.com/manelneto/distributed) |
 | Desenho de Algoritmos | *An Analysis Tool for Railway Network Management* | [railway](https://github.com/manelneto/railway) |
 | Desenho de Algoritmos | *Routing Algorithm for Ocean Shipping and Urban Deliveries* | [tsp](https://github.com/manelneto/tsp) |
 | Engenharia de Software | FootLinker | [FootLinker](https://github.com/manelneto/FootLinker) |
