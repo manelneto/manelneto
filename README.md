@@ -1,7 +1,7 @@
 # Manuel Neto 👋
 
-- A frequentar o **Mestrado em Segurança Informática (MSI)**, na **Faculdade de Ciências da Universidade do Porto (FCUP)**
-- Licenciado em **Engenharia Informática e Computação ([LEIC](./FEUP/LEIC/README.md))**, pela **Faculdade de Engenharia da Universidade do Porto (FEUP)** e pela **Faculdade de Ciências da Universidade do Porto (FCUP)**
+- A frequentar o **Mestrado em Segurança Informática ([MSI](./FCUP/MSI/README.md))**, na **Faculdade de Ciências da Universidade do Porto ([FCUP](https://fc.up.pt))**
+- Licenciado em **Engenharia Informática e Computação ([LEIC](./FEUP/LEIC/README.md))**, pela **Faculdade de Engenharia da Universidade do Porto ([FEUP](https://fe.up.pt))** e pela **Faculdade de Ciências da Universidade do Porto ([FCUP](https://fc.up.pt))**
 
 <div>
     <img src="./images/FEUP.png" alt="FEUP" width="250">
