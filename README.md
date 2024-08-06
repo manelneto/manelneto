@@ -1,7 +1,7 @@
 # Manuel Neto 👋
 
 - A frequentar o **Mestrado em Segurança Informática (MSI)**, na **Faculdade de Ciências da Universidade do Porto (FCUP)**
-- Licenciado em **Engenharia Informática e Computação (LEIC)**, pela **Faculdade de Engenharia da Universidade do Porto (FEUP)** e pela **Faculdade de Ciências da Universidade do Porto (FCUP)**
+- Licenciado em **Engenharia Informática e Computação ([LEIC](./FEUP/LEIC/README.md))**, pela **Faculdade de Engenharia da Universidade do Porto (FEUP)** e pela **Faculdade de Ciências da Universidade do Porto (FCUP)**
 
 <div>
     <img src="./images/FEUP.png" alt="FEUP" width="250">
@@ -11,7 +11,7 @@
 ## Projetos
 
 | Projeto | Repositório |
-| ------- |:-----------:|
+| ------- | ----------- |
 | **Horários de Estudantes** | [schedule](https://github.com/manelneto/schedule) |
 | **Transportes Aéreos** | [airplanes](https://github.com/manelneto/airplanes) |
 | **Mundial de Futebol no Catar** | [worldcup](https://github.com/manelneto/worldcup) |
