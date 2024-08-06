@@ -39,6 +39,9 @@
     <a href="mailto:manuelrlcneto@gmail.com">
         <img src="./images/Gmail.png" alt="Gmail" height="100">
     </a>
+    <a href="mailto:up202108744@up.pt">
+        <img src="./images/UPorto.png" alt="UPorto" height="100">
+    </a>
     <a href="https://linkedin.com/in/manelneto">
         <img src="./images/LinkedIn.png" alt="LinkedIn" height="100">
     </a>
