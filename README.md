@@ -4,8 +4,8 @@
 - Licenciado em **Engenharia Informática e Computação ([LEIC](./FEUP/LEIC/README.md))**, pela **Faculdade de Engenharia da Universidade do Porto ([FEUP](https://fe.up.pt))**
 
 <div>
-    <img src="./images/FEUP.png" alt="FEUP" width="250">
-    <img src="./images/FCUP.png" alt="FCUP" width="250">
+    <img src="./images/FEUP.png" alt="FEUP" height="150">
+    <img src="./images/FCUP.png" alt="FCUP" height="250">
 </div>
 
 ## Projetos
@@ -32,3 +32,14 @@
 | **Bounce** | [bounce](https://github.com/manelneto/bounce) |
 | ***Parser*** | [parser](https://github.com/manelneto/parser) |
 | **Protocolo de Ligação de Dados** | [penguin](https://github.com/manelneto/penguin) |
+
+## Contactos
+
+<div>
+    <a href="mailto:manuelrlcneto@gmail.com">
+        <img src="./images/Gmail.png" alt="Gmail" height="100">
+    </a>
+    <a href="https://linkedin.com/in/manelneto">
+        <img src="./images/LinkedIn.png" alt="LinkedIn" height="100">
+    </a>
+</div>
