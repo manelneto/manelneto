@@ -1,6 +1,8 @@
-# FEUP
+# FEUP &ndash; Faculdade de Engenharia da Universidade do Porto
 
-## LEIC
+<img src="./../../images/FEUP.png" alt="FEUP" width="500">
+
+## LEIC &ndash; Licenciatura em Engenharia Informática e Computação
 
 <table style="text-align:center;">
     <thead>

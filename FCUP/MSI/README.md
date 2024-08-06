@@ -1,6 +1,8 @@
-# FCUP
+# FCUP &ndash; Faculdade de Ciências da Universidade do Porto
 
-## MSI
+<img src="./../../images/FCUP.png" alt="FCUP" width="500">
+
+## MSI &ndash; Mestrado em Segurança Informática
 
 <table style="text-align:center;">
     <thead>
