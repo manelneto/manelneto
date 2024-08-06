@@ -3,8 +3,10 @@
 - A frequentar o **Mestrado em Segurança Informática (MSI)**, na **Faculdade de Ciências da Universidade do Porto (FCUP)**
 - Licenciado em **Engenharia Informática e Computação (LEIC)**, pela **Faculdade de Engenharia da Universidade do Porto (FEUP)** e pela **Faculdade de Ciências da Universidade do Porto (FCUP)**
 
-<img style="display:inline;" src="./images/FEUP.png" alt="FEUP" width="250">
-<img style="display:inline;" src="./images/FCUP.png" alt="FCUP" width="250">
+<div float="left">
+    <img src="./images/FEUP.png" alt="FEUP" width="250">
+    <img src="./images/FCUP.png" alt="FCUP" width="250">
+</div>
 
 ## Projetos
 
