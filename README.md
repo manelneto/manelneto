@@ -5,9 +5,9 @@
 - Licenciado em **Engenharia Informática e Computação ([LEIC](./FEUP/LEIC/README.md))**, pela **Faculdade de Engenharia da Universidade do Porto ([FEUP](https://fe.up.pt))**
 
 <div>
-    <img src="./images/SkillReach.png" alt="FEUP" width="250">
     <img src="./images/FEUP.png" alt="FEUP" width="250">
     <img src="./images/FCUP.png" alt="FCUP" width="250">
+    <img src="./images/SkillReach.png" alt="FEUP" width="250">
 </div>
 
 ## Projetos
