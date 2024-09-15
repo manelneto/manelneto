@@ -1,6 +1,6 @@
 # Manuel Neto [👋](mailto:manuelrlcneto@gmail.com)
 
-- A trabalhar como **Engenheiro de Segurança Informática** na [Skill & Reach](https://skillandreach.com/)
+- A trabalhar como **Engenheiro de Segurança Informática** na **[Skill & Reach](https://skillandreach.com/)**
 - A frequentar o **Mestrado em Segurança Informática ([MSI](./FCUP/MSI/README.md))**, na **Faculdade de Ciências da Universidade do Porto ([FCUP](https://fc.up.pt))**
 - Licenciado em **Engenharia Informática e Computação ([LEIC](./FEUP/LEIC/README.md))**, pela **Faculdade de Engenharia da Universidade do Porto ([FEUP](https://fe.up.pt))**
 
