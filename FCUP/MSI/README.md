@@ -19,7 +19,7 @@
         <tr>
             <td rowspan="3">1º</td>
             <td rowspan="3">1º</td>
-            <td style="text-align:left;"><strong>Criptografia Aplicada</strong></td>
+            <td style="text-align:left;"><strong>Segurança de Redes</strong></td>
             <td>&mdash;</td>
             <td>&mdash;</td>
             <td>&mdash;</td>
@@ -31,7 +31,19 @@
             <td>&mdash;</td>
         </tr>
         <tr>
-            <td style="text-align:left;"><strong>Segurança de Redes</strong></td>
+            <td style="text-align:left;"><strong>Criptografia Aplicada</strong></td>
+            <td>&mdash;</td>
+            <td>&mdash;</td>
+            <td>&mdash;</td>
+        </tr>
+        <tr>
+            <td style="text-align:left;"><strong>Deteção de Fraude</strong></td>
+            <td>&mdash;</td>
+            <td>&mdash;</td>
+            <td>&mdash;</td>
+        </tr>
+        <tr>
+            <td style="text-align:left;"><strong>Operações de Segurança</strong></td>
             <td>&mdash;</td>
             <td>&mdash;</td>
             <td>&mdash;</td>
