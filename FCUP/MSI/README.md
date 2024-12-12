@@ -21,7 +21,7 @@
             <td rowspan="5">1º</td>
             <td style="text-align:left;"><strong>Segurança de Redes</strong></td>
             <td>&mdash;</td>
-            <td>&mdash;</td>
+            <td><a href="https://github.com/manelneto/owasp">owasp</a></td>
             <td>&mdash;</td>
         </tr>
         <tr>
@@ -39,7 +39,7 @@
         <tr>
             <td style="text-align:left;"><strong>Deteção de Fraude</strong></td>
             <td>&mdash;</td>
-            <td>&mdash;</td>
+            <td><a href="https://github.com/manelneto/fraud">fraud</a></td>
             <td>&mdash;</td>
         </tr>
         <tr>

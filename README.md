@@ -23,6 +23,7 @@
 | **Projeto de Computação Distribuída** | [distributed](https://github.com/manelneto/distributed) |
 | ***An Analysis Tool for Railway Network Management*** | [railway](https://github.com/manelneto/railway) |
 | ***Routing Algorithm for Ocean Shipping and Urban Deliveries*** | [tsp](https://github.com/manelneto/tsp) |
+| ***Credit Card Fraud Detection*** | [fraud](https://github.com/manelneto/fraud) |
 | **FootLinker** | [FootLinker](https://github.com/manelneto/FootLinker) |
 | ***Logbooks*** | [logbooks](https://github.com/manelneto/logbooks) |
 | **Amado** | [amado](https://github.com/manelneto/amado) |
@@ -34,6 +35,7 @@
 | **Bounce** | [bounce](https://github.com/manelneto/bounce) |
 | ***Parser*** | [parser](https://github.com/manelneto/parser) |
 | **Protocolo de Ligação de Dados** | [penguin](https://github.com/manelneto/penguin) |
+| **OWASP *Top 10 Vulnerabilities*** | [owasp](https://github.com/manelneto/owasp) |
 
 ## Contactos
 
