@@ -27,13 +27,13 @@
         <tr>
             <td style="text-align:left;"><strong>Teoria e Prática de Ataques de Segurança</strong></td>
             <td>&mdash;</td>
-            <td><a href="https://github.com/manelneto/crypto">crypto</a></td>
+            <td>&mdash;</td>
             <td>&mdash;</td>
         </tr>
         <tr>
             <td style="text-align:left;"><strong>Criptografia Aplicada</strong></td>
             <td>&mdash;</td>
-            <td>&mdash;</td>
+            <td><a href="https://github.com/manelneto/crypto">crypto</a></td>
             <td>&mdash;</td>
         </tr>
         <tr>
