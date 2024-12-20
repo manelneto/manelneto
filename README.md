@@ -21,6 +21,7 @@
 | ***My Scene*** | [scene](https://github.com/manelneto/scene) |
 | ***Performance Evaluation of a Single Core and a Multi-Core Implementation*** | [parallel](https://github.com/manelneto/parallel) |
 | **Projeto de Computação Distribuída** | [distributed](https://github.com/manelneto/distributed) |
+| **Criptografia** | [crypto](https://github.com/manelneto/crypto) |
 | ***An Analysis Tool for Railway Network Management*** | [railway](https://github.com/manelneto/railway) |
 | ***Routing Algorithm for Ocean Shipping and Urban Deliveries*** | [tsp](https://github.com/manelneto/tsp) |
 | ***Credit Card Fraud Detection*** | [fraud](https://github.com/manelneto/fraud) |
