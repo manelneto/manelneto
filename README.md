@@ -12,31 +12,31 @@
 
 ## Projetos
 
-| Projeto | Repositório |
-| ------- |:-----------:|
-| **Horários de Estudantes** | [schedule](https://github.com/manelneto/schedule) |
-| **Transportes Aéreos** | [airplanes](https://github.com/manelneto/airplanes) |
-| **Mundial de Futebol no Catar** | [worldcup](https://github.com/manelneto/worldcup) |
-| ***Design and Implementation of the Java-- Language Compiler*** | [compiler](https://github.com/manelneto/compiler) |
-| ***My Scene*** | [scene](https://github.com/manelneto/scene) |
-| ***Performance Evaluation of a Single Core and a Multi-Core Implementation*** | [parallel](https://github.com/manelneto/parallel) |
-| **Projeto de Computação Distribuída** | [distributed](https://github.com/manelneto/distributed) |
-| **Criptografia** | [crypto](https://github.com/manelneto/crypto) |
-| ***An Analysis Tool for Railway Network Management*** | [railway](https://github.com/manelneto/railway) |
-| ***Routing Algorithm for Ocean Shipping and Urban Deliveries*** | [tsp](https://github.com/manelneto/tsp) |
-| ***Credit Card Fraud Detection*** | [fraud](https://github.com/manelneto/fraud) |
-| **FootLinker** | [FootLinker](https://github.com/manelneto/FootLinker) |
-| ***Logbooks*** | [logbooks](https://github.com/manelneto/logbooks) |
-| **Amado** | [amado](https://github.com/manelneto/amado) |
-| ***Banking Customer Churn Prediction*** | [churn](https://github.com/manelneto/churn) |
-| **Community Connect** | [CommunityConnect](https://github.com/manelneto/CommunityConnect) |
-| **Pong 2.0.** | [pong](https://github.com/manelneto/pong) |
-| **Bomberman** | [bomberman](https://github.com/manelneto/bomberman) |
-| ***Management of Trouble Tickets*** | [tickets](https://github.com/manelneto/tickets) |
-| **Bounce** | [bounce](https://github.com/manelneto/bounce) |
-| ***Parser*** | [parser](https://github.com/manelneto/parser) |
-| **Protocolo de Ligação de Dados** | [penguin](https://github.com/manelneto/penguin) |
-| **OWASP *Top 10 Vulnerabilities*** | [owasp](https://github.com/manelneto/owasp) |
+| Área | Projeto | Repositório |
+| ---- | ------- |:-----------:|
+| Algoritmos e Estruturas de Dados | **Horários de Estudantes** | [schedule](https://github.com/manelneto/schedule) |
+| Algoritmos e Estruturas de Dados | **Transportes Aéreos** | [airplanes](https://github.com/manelneto/airplanes) |
+| Bases de Dados | **Mundial de Futebol no Catar** | [worldcup](https://github.com/manelneto/worldcup) |
+| Compiladores | ***Design and Implementation of the Java-- Language Compiler*** | [compiler](https://github.com/manelneto/compiler) |
+| Computação Distribuída | **Projeto de Computação Distribuída** | [distributed](https://github.com/manelneto/distributed) |
+| Computação Gráfica | ***My Scene*** | [scene](https://github.com/manelneto/scene) |
+| Computação Paralela | ***Performance Evaluation of a Single Core and a Multi-Core Implementation*** | [parallel](https://github.com/manelneto/parallel) |
+| Criptografia | **Criptografia** | [crypto](https://github.com/manelneto/crypto) |
+| Desenho de Algoritmos | ***An Analysis Tool for Railway Network Management*** | [railway](https://github.com/manelneto/railway) |
+| Desenho de Algoritmos | ***Routing Algorithm for Ocean Shipping and Urban Deliveries*** | [tsp](https://github.com/manelneto/tsp) |
+| Deteção de Fraude | ***Credit Card Fraud Detection*** | [fraud](https://github.com/manelneto/fraud) |
+| Engenharia de Software | **FootLinker** | [FootLinker](https://github.com/manelneto/FootLinker) |
+| Fundamentos de Segurança Informática | ***Logbooks*** | [logbooks](https://github.com/manelneto/logbooks) |
+| Inteligência Artificial | **Amado** | [amado](https://github.com/manelneto/amado) |
+| Inteligência Artificial | ***Banking Customer Churn Prediction*** | [churn](https://github.com/manelneto/churn) |
+| Laboratório de Bases de Dados e Aplicações Web | **Community Connect** | [CommunityConnect](https://github.com/manelneto/CommunityConnect) |
+| Laboratório de Computadores | **Pong 2.0.** | [pong](https://github.com/manelneto/pong) |
+| Laboratório de Desenho e Teste de Software | **Bomberman** | [bomberman](https://github.com/manelneto/bomberman) |
+| Lingugagens e Tecnologias Web | ***Management of Trouble Tickets*** | [tickets](https://github.com/manelneto/tickets) |
+| Programação Funcional | ***Parser*** | [parser](https://github.com/manelneto/parser) |
+| Programação em Lógica | **Bounce** | [bounce](https://github.com/manelneto/bounce) |
+| Redes de Computadores | **Protocolo de Ligação de Dados** | [penguin](https://github.com/manelneto/penguin) |
+| Segurança de Redes | **OWASP *Top 10 Vulnerabilities*** | [owasp](https://github.com/manelneto/owasp) |
 
 ## Contactos
 
