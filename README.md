@@ -29,7 +29,7 @@
 | Redes | **Protocolo de Ligação de Dados** | [penguin](https://github.com/manelneto/penguin) |
 | Segurança Criptográfica | **Criptografia** | [crypto](https://github.com/manelneto/crypto) |
 | Segurança Informática | ***Logbooks*** | [logbooks](https://github.com/manelneto/logbooks) |
-| Segurança Informática | **OWASP *Top 10 Vulnerabilities*** | [owasp](https://github.com/manelneto/owasp) |
+| Segurança Web | **OWASP *Top 10 Vulnerabilities*** | [owasp](https://github.com/manelneto/owasp) |
 | Software | **Bomberman** | [bomberman](https://github.com/manelneto/bomberman) |
 | Software | **FootLinker** | [FootLinker](https://github.com/manelneto/FootLinker) |
 | Teoria dos Grafos | **Transportes Aéreos** | [airplanes](https://github.com/manelneto/airplanes) |
