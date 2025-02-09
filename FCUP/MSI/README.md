@@ -20,33 +20,33 @@
             <td rowspan="10">1º</td>
             <td rowspan="5">1º</td>
             <td style="text-align:left;"><strong>Segurança de Redes</strong></td>
-            <td>&mdash;</td>
+            <td><a href="./A1/S1/SR.pdf">SR</a></td>
             <td><a href="https://github.com/manelneto/owasp">owasp</a></td>
-            <td>&mdash;</td>
+            <td>17</td>
         </tr>
         <tr>
             <td style="text-align:left;"><strong>Teoria e Prática de Ataques de Segurança</strong></td>
-            <td>&mdash;</td>
+            <td><a href="./A1/S1/TPAS.pdf">TPAS</a></td>
             <td>&mdash;</td>
             <td>&mdash;</td>
         </tr>
         <tr>
             <td style="text-align:left;"><strong>Criptografia Aplicada</strong></td>
-            <td>&mdash;</td>
+            <td><a href="./A1/S1/CA.pdf">CA</a></td>
             <td><a href="https://github.com/manelneto/crypto">crypto</a></td>
-            <td>&mdash;</td>
+            <td>19</td>
         </tr>
         <tr>
             <td style="text-align:left;"><strong>Deteção de Fraude</strong></td>
-            <td>&mdash;</td>
+            <td><a href="./A1/S1/DF.pdf">DF</a></td>
             <td><a href="https://github.com/manelneto/fraud">fraud</a></td>
-            <td>&mdash;</td>
+            <td>19</td>
         </tr>
         <tr>
             <td style="text-align:left;"><strong>Operações de Segurança</strong></td>
+            <td><a href="./A1/S1/OS.pdf">OS</a></td>
             <td>&mdash;</td>
-            <td>&mdash;</td>
-            <td>&mdash;</td>
+            <td>19</td>
         </tr>
         <tr>
             <td rowspan="5">2º</td>
