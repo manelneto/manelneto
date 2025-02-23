@@ -28,7 +28,7 @@
             <td style="text-align:left;"><strong>Teoria e Prática de Ataques de Segurança</strong></td>
             <td><a href="./A1/S1/TPAS.pdf">TPAS</a></td>
             <td>&mdash;</td>
-            <td>&mdash;</td>
+            <td>17</td>
         </tr>
         <tr>
             <td style="text-align:left;"><strong>Criptografia Aplicada</strong></td>
