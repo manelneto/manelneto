@@ -52,13 +52,13 @@
             <td rowspan="5">2º</td>
             <td style="text-align:left;"><strong>Segurança de Sistemas e Dados</strong></td>
             <td>&mdash;</td>
-            <td>&mdash;</td>
+            <td><a href="https://github.com/manelneto/ledger">ledger</a></td>
             <td>&mdash;</td>
         </tr>
         <tr>
             <td style="text-align:left;"><strong>Sistemas Embutidos</strong></td>
             <td>&mdash;</td>
-            <td>&mdash;</td>
+            <td><a href="https://github.com/manelneto/plant">plant</a></td>
             <td>&mdash;</td>
         </tr>
         <tr>
@@ -70,7 +70,7 @@
         <tr>
             <td style="text-align:left;"><strong>Segurança e Aplicações de Hardware Confiável</strong></td>
             <td>&mdash;</td>
-            <td>&mdash;</td>
+            <td><a href="https://github.com/manelneto/hardware">hardware</a></td>
             <td>&mdash;</td>
         </tr>
         <tr>
