@@ -30,6 +30,9 @@
 | Segurança Criptográfica | **Criptografia** | [crypto](https://github.com/manelneto/crypto) |
 | Segurança de *Hardware* | **VirtualizedHSM** | [hardware](https://github.com/manelneto/hardware) |
 | Segurança de Sistemas | ***Public Ledger for Auctions*** | [ledger](https://github.com/manelneto/ledger) |
+| Segurança de *Software* | ***Secure Collaborative Document Editor*** | [editor](https://github.com/manelneto/editor) |
+| Segurança e Privacidade | ***Anonymization of Datasets with Privacy, Utility and Risk Analysis*** | [anonymization](https://github.com/manelneto/anonymization) |
+| Segurança e Privacidade | ***Secure Multiparty Computation for Privacy in Practice*** | [multiparty](https://github.com/manelneto/multiparty) |
 | Segurança Informática | ***Logbooks*** | [logbooks](https://github.com/manelneto/logbooks) |
 | Segurança *Web* | **OWASP *Top 10 Vulnerabilities*** | [owasp](https://github.com/manelneto/owasp) |
 | Sistemas Embutidos | ***Watering from Twitter*** | [plant](https://github.com/manelneto/plant) |
