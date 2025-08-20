@@ -51,34 +51,34 @@
         <tr>
             <td rowspan="5">2º</td>
             <td style="text-align:left;"><strong>Segurança de Sistemas e Dados</strong></td>
-            <td>&mdash;</td>
+            <td><a href="./A1/S2/SSD.pdf">SSD</a></td>
             <td colspan="2"><a href="https://github.com/manelneto/ledger">ledger</a></td>
-            <td>&mdash;</td>
+            <td>19</td>
         </tr>
         <tr>
             <td style="text-align:left;"><strong>Sistemas Embutidos</strong></td>
-            <td>&mdash;</td>
+            <td><a href="./A1/S2/SE.pdf">SE</a></td>
             <td colspan="2"><a href="https://github.com/manelneto/plant">plant</a></td>
-            <td>&mdash;</td>
+            <td>17</td>
         </tr>
         <tr>
             <td style="text-align:left;"><strong>Tecnologias de Reforço da Privacidade</strong></td>
-            <td>&mdash;</td>
+            <td><a href="./A1/S2/TRP.pdf">TRP</a></td>
             <td><a href="https://github.com/manelneto/anonymization">anonymization</a></td>
             <td><a href="https://github.com/manelneto/multiparty">multiparty</a></td>
-            <td>&mdash;</td>
+            <td>18</td>
         </tr>
         <tr>
             <td style="text-align:left;"><strong>Segurança e Aplicações de Hardware Confiável</strong></td>
-            <td>&mdash;</td>
+            <td><a href="./A1/S2/SAHC.pdf">SAHC</a></td>
             <td colspan="2"><a href="https://github.com/manelneto/hardware">hardware</a></td>
-            <td>&mdash;</td>
+            <td>18</td>
         </tr>
         <tr>
             <td style="text-align:left;"><strong>Segurança em Engenharia de Software</strong></td>
-            <td>&mdash;</td>
+            <td><a href="./A1/S2/SES.pdf">SES</a></td>
             <td colspan="2"><a href="https://github.com/manelneto/editor">editor</a></td>
-            <td>&mdash;</td>
+            <td>19</td>
         </tr>
     </tbody>
 </table>
